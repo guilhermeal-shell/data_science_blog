@@ -19,9 +19,9 @@ This project focuses on analyzing this data to answer the following questions:
 
 Libraries
 The data was analyzed in Python 3.10, using the following libraries:
-Pandas
-Sklearn
-Matplotlib
+- Pandas
+- Sklearn
+- Matplotlib
 
 
 File Descriptions

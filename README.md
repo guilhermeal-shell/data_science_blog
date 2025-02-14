@@ -2,7 +2,7 @@
 This repository contains one jupyter notebook in which the public-domain Seatle Airbnb Dataset has been analyzed for data interpretation and price modelling using machine learning 
 
 Medium Blog Post
-Here you can find blog post on Medium about this project: https://medium.com/@emrebilgehangedik/seattle-airbnb-listings-analysis-d88c839596f8
+Here you can find blog post on Medium about this project: https://medium.com/@alexandrinogl/data-analytics-and-machine-learning-applied-to-the-seattle-airbnb-dataset-055bddcaf8ae
 
 Project Motivation
 This project (Write a Data Science Blog Post) is part of Udacity Data Scientists Nanodegree Program.
@@ -12,9 +12,9 @@ I used Seattle Airbnb Dataset for this project. As part of the Airbnb Inside ini
 This project focuses on analyzing this data to answer the following questions:
 1) What is the averaged price per accommodate in the different neighbourhoods of the city ?
 2) Is there any correlation between the response rate by the host and the price of the accommodation ? The intent here is to identify if there is any trend indicating that relatively cheaper accommodations (i.e. lower price/number of accommodates ratio) eventually have also a lower response rate by the host, in other words, they are more difficult to book.
-3) How the 10 most abundant property types are distributted accross the neighbourhoods of Seatle?
+3) How the 10 most abundant property types are distributted across the neighbourhoods of Seattle?
 4) Which features in the dataset have the higher linear correlation with the price of an accommodation?
-5) Can we leverage Machine Learning to predict the price of an accomodation based on the features selected by domain-knowledge?
+5) Can we leverage Machine Learning to predict the price of an accommodation based on the features selected by domain-knowledge?
 
 
 Libraries
@@ -25,5 +25,5 @@ The data was analyzed in Python 3.10, using the following libraries:
 
 
 File Descriptions
-1) Seattle Airbnb Dataset.ipynb Jupyter notebook with complete analysis, answers to the questions, explanations and visualisations
+1) Airbnb_project_notebook.ipynb Jupyter notebook with complete analysis, answers to the questions, explanations and visualisations
 2) listings.csv Original dataset in csv format
